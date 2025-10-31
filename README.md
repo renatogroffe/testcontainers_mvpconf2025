@@ -7,8 +7,6 @@ Exemplos de utilização:
 
 ---
 
----
-
 ## Informações sobre o evento
 
 Título da apresentação: **Turbinando e descomplicando a automação de Testes de Integração com Testcontainers**
