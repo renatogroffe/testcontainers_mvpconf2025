@@ -28,3 +28,16 @@ Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
 Deixamos aqui nossos agradecimentos à organização do MVP Conf,  aos coordenadores da trilha de Desenvolvimento - **Tania Stormovski**, **Vinicius Moura**, **Talles Valiatti**, **Bruno Brito**, **Renicius Pagotto**, **Carlos dos Santos** - e participantes por todo o apoio em nossa palestra.
+
+
+---
+
+![Renato e Milton palestrando 1](img/testcontainers-04.jpg)
+
+![Renato e Milton palestrando 2](img/testcontainers-07.jpg)
+
+![Renato e Milton palestrando 3](img/testcontainers-09.jpg)
+
+![Renato e Milton palestrando 4](img/testcontainers-08.jpg)
+
+![Renato e Milton palestrando 5](img/testcontainers-03.jpg)
