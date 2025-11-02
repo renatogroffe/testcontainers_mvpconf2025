@@ -26,3 +26,5 @@ Local: **UNIP - Paraíso/Vergueiro - Rua Vergueiro, 1211 - Aclimação - São Pa
 Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
 
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
+
+Deixamos aqui nossos agradecimentos à organização do MVP Conf,  aos coordenadores da trilha de Desenvolvimento - **Tania Stormovski**, **Vinicius Moura**, **Talles Valiatti**, **Bruno Brito**, **Renicius Pagotto**, **Carlos dos Santos** - e participantes por todo o apoio em nossa palestra.
